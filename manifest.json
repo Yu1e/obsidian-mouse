@@ -1,9 +1,9 @@
 {
-	"id": "yule-click",
-	"name": "Yule Click",
-	"version": "1.0.0",
-	"minAppVersion": "1.0.0",
-	"description": "Double-click a tab header to pin it; click the side margins to switch between Source mode and Live Preview.",
-	"author": "Yule",
-	"isDesktopOnly": false
+  "id": "yule-link-menu",
+  "name": "Yule Link Menu",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Собственное контекстное меню для ссылок в Live Preview и в режиме исходного кода.",
+  "author": "Yule",
+  "isDesktopOnly": true
 }

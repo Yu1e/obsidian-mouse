@@ -1,0 +1,22 @@
+{
+  "showHeader": true,
+  "ctrlTap": true,
+  "placement": {},
+  "blockMode": "text",
+  "blockTextLength": 40,
+  "browsers": "",
+  "tcPath": "C:\\Program Files\\totalcmd\\TOTALCMD64.EXE",
+  "tcArgs": "/O /T /L=\"{path}\"",
+  "iframeHeight": 500,
+  "templatesFolder": "",
+  "lastTemplate": "Serv/Templates/-_Basic.md",
+  "exportFolder": "",
+  "trackingParams": "utm_*, fbclid, gclid, dclid, gbraid, wbraid, msclkid, yclid, ysclid, _openstat, igshid, mc_cid, mc_eid, ref_src, rcm, si, spm",
+  "clean": {
+    "underscores": true,
+    "markup": true,
+    "edges": true,
+    "emoji": true,
+    "attachmentExt": true
+  }
+}
