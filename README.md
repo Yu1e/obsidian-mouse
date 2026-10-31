@@ -8,7 +8,7 @@
 
 ## Overview (EN)
 
-Yule Mouse is an Obsidian plugin that provides three main features:
+Yule Mouse is an Obsidian plugin that provides four main features:
 
 ### Tab Pinning
 
@@ -21,6 +21,10 @@ Click the side margin of a note to toggle between "Source" (raw markdown) and "P
 ### Drag & Drop Text Between Tabs
 
 Drag selected text from one tab to another to move it (insert at cursor position + remove from source). Hold Ctrl while dragging to copy instead of move.
+
+### Drag a Tab onto a Folder
+
+Drag a tab header onto a folder in the file explorer to move the note into that folder. Dropping onto a file moves the note into that file's folder; dropping onto empty space in the explorer moves it to the vault root. Links to the note are updated according to Obsidian's setting for automatic internal link updates. If the target folder already has a file with that name, the note stays in place and a notice appears.
 
 ---
 
@@ -42,7 +46,7 @@ MIT License (subject to Obsidian's Terms of Service).
 
 ## Обзор (RU)
 
-Yule Mouse — плагин Obsidian, который предоставляет три основные функции:
+Yule Mouse — плагин Obsidian, который предоставляет четыре основные функции:
 
 ### Закрепление вкладок кликом
 
@@ -55,6 +59,10 @@ Yule Mouse — плагин Obsidian, который предоставляет 
 ### Перетаскивание текста между вкладками
 
 Перетащите выделенный текст из одной вкладки в другую, чтобы переместить его (вставка под курсором + удаление из источника). При зажатой **Ctrl** — копируется вместо перемещения.
+
+### Перетаскивание вкладки в папку
+
+Перетащите заголовок вкладки на папку в проводнике, чтобы переместить заметку в эту папку. Бросок на файл перемещает заметку в папку этого файла, бросок на пустое место проводника — в корень хранилища. Ссылки на заметку обновляются по настройке Obsidian об автоматическом обновлении внутренних ссылок. Если в папке уже есть файл с таким именем, заметка остаётся на месте и появляется уведомление.
 
 ---
 
